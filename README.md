@@ -1,2 +1,2 @@
-# varl-k-ba-nt-modeli--Veri-Organizasyonu
+//Varlık_Bağıntı_Moeli
 ödev-1
